@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+    <string name="Weather_API_KEY">02f8509f3c987a021b92d3414052c6e3</string>
+
+    <string name="cityHint">Enter city</string>
+    <string name="search">Search</string>
+</resources>
